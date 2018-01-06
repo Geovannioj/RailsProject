@@ -8,7 +8,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
-
+gem 'cocoon'
 gem 'lerolero_generator'
 #generates fake data to create contacts
 gem 'faker'
