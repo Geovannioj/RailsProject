@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project has the aim to be an exercice to learn how to build projects with Ruby on Rails, this is about an agenda, where you can save your contacts
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This exercice is from the Ruby on Rails - Complete Course. 
+  
+Instructor: Jackson Pires
